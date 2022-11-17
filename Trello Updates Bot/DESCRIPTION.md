@@ -1,4 +1,4 @@
-This bot constantly checks for new cards added to Trello. If it detects a new card, it posts its contents.
+This bot is constantly checking for new cards added to Trello. If it detects a new card, it posts its contents.
 
 Here are some of the tweets posted by the bot:
 1. https://twitter.com/StreakyFly/status/1587864748732858369
