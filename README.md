@@ -1,6 +1,14 @@
 # Fortnite tools
 
 **MORE TOOLS COMING SOON!!**
+Including:
+ - Fortnite Blogposts Bot
+ - Fortnite Staging Updates Bot
+ - Item Shop Sections Bot (sort by lenght | sort by least recently used)
+ - Sprite to GIF converter tool (for animated emoticons)
+ - AND MORE!
+ 
+ **STAR THE REPOSITORY TO NOT MISS ANYTHING ADDED!!**
 
 Here are some Fortnite tools/bots, that I made during my leaking journey. I hope you find them as useful as I did.
 
