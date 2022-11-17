@@ -13,5 +13,5 @@ Here are some of the tweets posted by the bot:
 10. https://twitter.com/StreakyFly/status/1561547692869812224
 
 
-https://twitter.com/StreakyFly/status/1508080408608583686
+
 https://twitter.com/StreakyFly/status/1518605878752071682
