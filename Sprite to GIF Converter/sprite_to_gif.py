@@ -6,7 +6,7 @@ import os
 
 """
 ATTENTION!!
-  delete_files function will delete all .png files in the cropped_sprite_folder and frames_folder, so make sure you use seperate
+  delete_files function will delete all .png files in the cropped_sprite_folder and frames_folder, so make sure you use separate
   folders for that, and not eg. Desktop (where you have other files/images saved)!
 """
 
