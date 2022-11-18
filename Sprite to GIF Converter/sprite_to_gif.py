@@ -16,7 +16,7 @@ def main():
     sprites = []
     imgs_all = glob.glob(f"{from_path}/*")
     for i in imgs_all:
-        if i.endswith("_Sprite.png"):
+        if i.endswith("_Sprite.png") or i.endswith("_Sprites.png"):
             sprites.append(i)
 
     for num, sprite in enumerate(sprites, start=1):
