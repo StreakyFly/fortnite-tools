@@ -5,7 +5,6 @@ Including:
  - Fortnite Blogposts Bot
  - Fortnite Staging Updates Bot
  - Item Shop Sections Bot (sort by lenght | sort by least recently used)
- - Sprite to GIF converter tool (for animated emoticons)
  - AND MORE!
  
  **STAR THE REPOSITORY TO NOT MISS ANYTHING ADDED!!**
