@@ -8,6 +8,7 @@ Here's how the tweets look like:
 3.  
 ![image](https://user-images.githubusercontent.com/53691430/202688229-6ca3676e-bdd1-48a8-9916-5828eb3f29c9.png)
 
+<br/>
 
 Here are some of the tweets posted by the bot:
 1. https://twitter.com/StreakyFly/status/1587864748732858369
