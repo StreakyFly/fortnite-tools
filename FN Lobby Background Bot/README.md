@@ -3,6 +3,8 @@ This bot is constantly checking for Fortnite Lobby Background changes. If it det
 Here's how the tweet looks like:  
 ![image](https://user-images.githubusercontent.com/53691430/202685994-20062c3f-bb83-444b-85b7-20c54609c424.png)
 
+<br/>
+
 Here are some of the tweets posted by the bot:
 1. https://twitter.com/StreakyFly/status/1582288056199319555
 2. https://twitter.com/StreakyFly/status/1571400998446575619
