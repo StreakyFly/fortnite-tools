@@ -2,7 +2,6 @@
 
 **MORE TOOLS COMING SOON!!**
 Including:
- - Fortnite Staging Updates Bot
  - Item Shop Sections Bot (sort by lenght | sort by least recently used)
  - Loading Screen resize to proper dimensions + watermark
  - Fortnite Anniversaries Bot
