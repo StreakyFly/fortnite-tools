@@ -4,6 +4,11 @@ import math
 import glob
 import os
 
+"""
+ATTENTION!!
+  delete_files function will delete all .png files in the cropped_sprite_folder and frames_folder, so make sure you use seperate
+  folders for that, and not eg. Desktop (where you have other files/images saved)!
+"""
 
 # TODO change these locations to your own
 save_to = "C:/Users/USER/Desktop/FModel/ReadyToPost/EmojiGIFs"  # where the final GIFs will be saved
@@ -27,8 +32,8 @@ def main():
 
     merge_sprite_pieces(sprites)
     pngs_to_gif("MERGED", frames_folder, which=0)
-    delete_files(cropped_sprite_folder)
-    delete_files(frames_folder)
+    delete_files(cropped_sprite_folder, extension=".png")
+    delete_files(frames_folder, extension=".png")
 
     print("Complete.")
 
@@ -133,11 +138,12 @@ def pil_grid(images, max_horiz=np.iinfo(int).max):
     return im_grid
 
 
-def delete_files(location):
+def delete_files(location, extension):
     print(f"Deleting files in \"{'/'.join(location.split('/')[-2:])}\"")
     files = glob.glob(f"{location}/*")
     for f in files:
-        os.remove(f)
+        if f.endswith(extension):
+            os.remove(f)
 
 
 if __name__ == "__main__":
