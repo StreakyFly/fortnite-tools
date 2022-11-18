@@ -4,7 +4,9 @@
 Including:
  - Fortnite Staging Updates Bot
  - Item Shop Sections Bot (sort by lenght | sort by least recently used)
- - AND MORE!
+ - Loading Screen resize to proper dimensions + watermark
+ - Fortnite Anniversaries Bot
+ - AND POSSIBLY MORE!
  
  **STAR THE REPOSITORY TO NOT MISS ANYTHING ADDED!!**
 
