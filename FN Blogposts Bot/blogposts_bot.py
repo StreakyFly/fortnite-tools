@@ -98,7 +98,7 @@ def main():
                         """
                         pls don't question me about this try/except hell
                         I was like: one try/except can't hurt. Then I added another. And another. And another and so on...
-                        What all this mess does is basically, it tries posting different combinations  of info on that blog, from the one
+                        What all this mess does is basically, it tries posting different combinations of info on that blog, from the one
                         with most important info to less and less. First it tries to tweet a video and some text and if the video or the text
                         is too long, it tries a different video or image on that website and different text etc. until it can finally post it.
                         This is a great example of how you should NOT write your programs...
