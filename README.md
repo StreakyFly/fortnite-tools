@@ -2,7 +2,6 @@
 
 **MORE TOOLS COMING SOON!!**
 Including:
- - Fortnite Blogposts Bot
  - Fortnite Staging Updates Bot
  - Item Shop Sections Bot (sort by lenght | sort by least recently used)
  - AND MORE!
