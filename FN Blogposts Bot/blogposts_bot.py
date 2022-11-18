@@ -95,6 +95,14 @@ def main():
                                 final_desc = f"{blog_description}\n\n🔗 {url}"
                                 # print("DESC: ", blog_description)
 
+                        """
+                        pls don't question me about this try/except hell
+                        I was like: one try/except can't hurt. Then I added another. And another. And another and so on...
+                        What all this mess does is basically, it tries posting different combinations  of info on that blog, from the one
+                        with most important info to less and less. First it tries to tweet a video and some text and if the video or the text
+                        is too long, it tries a different video or image on that website and different text etc. until it can finally post it.
+                        This is a great example of how you should NOT write your programs...
+                        """
                         try:
                             try:
                                 # print(re.findall("(?P<url>https?://[^\s]+.mp4)", str(post)))
@@ -224,6 +232,10 @@ def tweet_video(text, video_name):
 
 
 def tweet_video_retry(text, video_name, video):
+    """
+    if it retries tweeting because of too long text, this function is used, so the video
+    that was fine, does not need to be uploaded to twitter servers once again
+    """
     if text in posts:
         print(f"{Fore.RED}Duplicate post. Skipping...{rc}")
     else:
