@@ -51,7 +51,7 @@ def main():
 
 
 def resize_image():
-    image = Image.open(f"{cwd}lobby_background.jpg")
+    image = Image.open(f"{cwd}lobby_background.jpg").convert("RGB")
     new_res_image = image.resize((2048, 1152))
     new_res_image.save("lobby_background.jpg")
 
