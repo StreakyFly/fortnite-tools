@@ -1,3 +1,5 @@
+# FN Blogposts Bot
+
 This bot is constantly checking for new Fortnite Blogs on their website. If it detects a new Blog, it posts its contents.
 
 Here's how the tweets look like:  
