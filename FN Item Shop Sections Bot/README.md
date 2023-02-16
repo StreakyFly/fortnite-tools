@@ -1,10 +1,10 @@
 This bot is constantly checking for Fortnite Item Shop Section/tab changes. If it detects a change, it posts it.
 There are two versions (the main difference is in what order they sort the sections):
  1. sort by text length (shortest to longest => top to bottom)
- 2. sort by least recently used (the longer the section hasn't been in the shop, the higher it will appear)
+ 2. sort by least recently used (the longer the section hasn't been in the shop, the higher it will appear)  
 
-The code is absolutely terrific. Enjoy decrypting it if anything breaks... Sorry.
-
+The code is absolutely terrific. Enjoy decrypting it if anything breaks... Sorry.  
+  
 Here's how the tweets look like.
 
 1. Sorted by text length:  
