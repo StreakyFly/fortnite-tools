@@ -1,3 +1,5 @@
+# Sprite to GIF Converter
+
 This program converts Fortnite Sprites to GIFs and also merges them in one GIF.
 
 Here's a few examples:
