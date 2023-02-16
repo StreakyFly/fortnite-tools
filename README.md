@@ -1,7 +1,6 @@
 # Fortnite tools
 
 **MORE TOOLS COMING SOON!!**
- - Item Shop Sections Bot (sort by lenght | sort by least recently used)
  - Fortnite Anniversaries Bot
  
  **STAR THE REPOSITORY TO NOT MISS ANYTHING ADDED!!**
