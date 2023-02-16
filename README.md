@@ -1,11 +1,8 @@
 # Fortnite tools
 
 **MORE TOOLS COMING SOON!!**
-Including:
  - Item Shop Sections Bot (sort by lenght | sort by least recently used)
- - Loading Screen resize to proper dimensions + watermark
  - Fortnite Anniversaries Bot
- - AND POSSIBLY MORE!
  
  **STAR THE REPOSITORY TO NOT MISS ANYTHING ADDED!!**
 
