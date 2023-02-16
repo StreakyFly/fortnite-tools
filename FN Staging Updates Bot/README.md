@@ -1,3 +1,5 @@
+# FN Staging Updates Bot
+
 This bot is constantly checking for new Fortnite versions that Epic is working on. If it detects a new version, it posts it.
 
 Here's how the tweets look like:  
