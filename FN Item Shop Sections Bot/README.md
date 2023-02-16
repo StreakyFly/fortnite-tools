@@ -1,3 +1,5 @@
+# FN Item Shop Sections Bot
+
 This bot is constantly checking for Fortnite Item Shop Section/tab changes. If it detects a change, it posts it.
 There are two versions (the main difference is in what order they sort the sections):
  1. sort by text length (shortest to longest => top to bottom) - *main.py*
