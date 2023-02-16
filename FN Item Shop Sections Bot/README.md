@@ -5,8 +5,10 @@ There are two versions (the main difference is in what order they sort the secti
 
 <br/>
 
-The code is absolutely terrific. Enjoy decrypting it if anything breaks... Sorry.  
-  
+The code is absolutely **terrific**. Enjoy decrypting it if anything breaks... Sorry.  
+
+<br/>
+
 Here's how the tweets look like.
 
 1. Sorted by text length:  
@@ -22,7 +24,9 @@ Here are some of the tweets posted by the bot:
  - https://twitter.com/StreakyFlyFN/status/1591552016429772800
  - https://twitter.com/StreakyFlyFN/status/1589377356682170373
  - https://twitter.com/StreakyFlyFN/status/1587205001176354827
-  
+
+<br/>
+
 2. Sorted by least recently used:
  - https://twitter.com/SneakyFry/status/1593363764728020994
  - https://twitter.com/SneakyFry/status/1593001202924785664
