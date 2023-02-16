@@ -1,3 +1,5 @@
+# Twitter Profile Changes Bot
+
 This bot is constantly checking for profile changes on Twitter. If it detects a change (either user's location, profile picture or header), it posts it.
 
 Here's how the tweets look like:  
