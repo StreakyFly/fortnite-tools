@@ -1,3 +1,5 @@
+# Trello Updates Bot
+
 This bot is constantly checking for new cards added to Trello. If it detects a new card, it posts its contents.
 
 Here's how the tweets look like:  
