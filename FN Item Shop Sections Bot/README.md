@@ -11,7 +11,7 @@ The code is absolutely **terrific**. Enjoy decrypting it if anything breaks... S
 
 <br/>
 
-Here's how the tweets look like.
+Here's how the tweets look like:
 
 1. Sorted by text length:  
 ![image](https://user-images.githubusercontent.com/53691430/219424068-2cd747d3-de52-4e95-a170-a60f5f0312d5.png)
